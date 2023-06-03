@@ -5,5 +5,8 @@
     <item
         class="com.android.contacts.DialtactsContactsEntryActivity"
         name="people" />
+    <item
+        component="ComponentInfo{com.android.tim/com.tencent.mobileqq.activity.SplashActivity}"
+        drawable="tim" />
 
 </appmap>
