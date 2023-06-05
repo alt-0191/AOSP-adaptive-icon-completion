@@ -1,4 +1,4 @@
-package dev.jahir.blueprint.app
+package dev.jahir.blueprint.icon
 
 import dev.jahir.frames.muzei.FramesArtProvider
 

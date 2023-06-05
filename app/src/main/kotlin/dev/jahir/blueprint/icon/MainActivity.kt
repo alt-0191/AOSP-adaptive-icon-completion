@@ -1,6 +1,8 @@
-package dev.jahir.blueprint.app
+package dev.jahir.blueprint.icon
 
 import com.github.javiersantos.piracychecker.PiracyChecker
+import dev.jahir.blueprint.app.BuildConfig
+import dev.jahir.blueprint.app.R
 import dev.jahir.blueprint.ui.activities.BottomNavigationBlueprintActivity
 
 /**

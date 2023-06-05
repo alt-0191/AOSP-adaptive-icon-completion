@@ -1,5 +1,6 @@
-package dev.jahir.blueprint.app
+package best.maltmann.adaptive.icon
 
+import dev.jahir.blueprint.app.BuildConfig
 import dev.jahir.frames.ui.FramesApplication
 
 // TODO: Remove comment marks to enable

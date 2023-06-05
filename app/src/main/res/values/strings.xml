@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Blueprint</string>
+    <string name="app_name">动态图标补全</string>
     <string name="title_activity_settings">SettingsActivity</string>
 
     <!-- Preference Titles -->

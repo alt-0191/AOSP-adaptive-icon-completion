@@ -20,7 +20,7 @@
         tools:ignore="UnusedAttribute" >
 
         <activity
-            android:name=".MainActivity"
+            android:name="dev.jahir.blueprint.icon.MainActivity"
             android:exported="true"
             android:label="@string/app_name" >
 
@@ -250,7 +250,7 @@
                 android:resource="@xml/file_providers" />
         </provider> <!-- Muzei Service -->
         <provider
-            android:name=".MuzeiService"
+            android:name="dev.jahir.blueprint.icon.MuzeiService"
             android:authorities="${applicationId}.muzei"
             android:exported="true"
             android:icon="@drawable/ic_muzei_icon"
