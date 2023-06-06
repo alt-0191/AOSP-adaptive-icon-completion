@@ -1,4 +1,4 @@
-package best.maltmann.adaptive.icon
+package dev.jahir.blueprint.icon
 
 import dev.jahir.blueprint.app.BuildConfig
 import dev.jahir.frames.ui.FramesApplication
