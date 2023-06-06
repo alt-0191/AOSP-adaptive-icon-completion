@@ -6,7 +6,7 @@
     <uses-permission android:name="com.android.vending.BILLING" />
 
     <application
-        android:name=".MyApplication"
+        android:name="dev.jahir.blueprint.icon.MyApplication"
         android:allowBackup="true"
         android:enableOnBackInvokedCallback="true"
         android:fullBackupContent="true"

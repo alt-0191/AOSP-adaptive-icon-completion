@@ -47,4 +47,10 @@
         <item name="labelVisibilityMode">labeled</item>
     </style>
 
+    <style name="Theme.APP" parent="Widget.Blueprint.BottomNavigationView.MaterialYou">
+        <item name="android:thumbTint">@color/m3_primary</item>
+        <item name="trackTint">@color/m3_onSurfaceVariant</item>
+    </style>
+
+
 </resources>

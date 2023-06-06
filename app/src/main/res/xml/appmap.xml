@@ -3,10 +3,10 @@
 
     <!-- Contacts App -->
     <item
-        class="com.android.contacts.DialtactsContactsEntryActivity"
-        name="people" />
-    <item
         component="ComponentInfo{com.android.tim/com.tencent.mobileqq.activity.SplashActivity}"
         drawable="tim" />
+    <item
+        component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.MainActivity}"
+        drawable="steam" />
 
 </appmap>

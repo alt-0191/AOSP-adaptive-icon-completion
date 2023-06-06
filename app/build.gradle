@@ -89,13 +89,10 @@ android {
 }
 
 dependencies {
-    implementation 'androidx.appcompat:appcompat:1.4.1'
-    implementation 'androidx.preference:preference:1.2.0'
-    implementation 'com.google.android.material:material:1.4.+'
-    dependencies {
-        implementation "androidx.compose.material3:material3:1.2.0-alpha02"
-        implementation "androidx.compose.material3:material3-window-size-class:1.2.0-alpha02"
-    }
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation 'androidx.preference:preference-ktx:1.2.0'
+    implementation "androidx.compose.material3:material3:1.1.0"
+    implementation "androidx.compose.material3:material3-window-size-class:1.1.0"
     implementation(Libs.blueprint) {
         transitive = true
     }
